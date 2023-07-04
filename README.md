@@ -1,2 +1,2 @@
-# college-dashboard
+# college-dash
 Project for college!
