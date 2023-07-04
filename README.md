@@ -1,2 +1,2 @@
 # college-dashboard
-Project for college.
+Project for college!
